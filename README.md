@@ -18,3 +18,7 @@ R scriptine odyogram_cizdirme.R sekline ulasabilirsiniz.
 Scripti actiktan sonra 'shiny' ve 'ggplot2' kutuphaneleri yuklenmesi gerekiyor.
 ISO normatif verilerinin ayni klasorde olduguna dikkat ediniz.
 Daha sonra sag ustten 'runapp' diyerek uygulamayi calistirabilirsiniz.
+
+## Referans ##
+
+https://github.com/huiwen-goy
