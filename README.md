@@ -4,9 +4,11 @@ Bu proje ile istediginiz Odyogrami cizdirebilir ve PNG ile PDF formatlarinda ind
 Basit olarak orta sol kosede, sag ve sol kulak icin 250 Hz ile 8000 Hz arasindaki degerleri girerek, hemen alt kisimda ISO normatif degerlerini cizdirerek grup karsilastirmasi yapabilirsiniz.
  
 ## Online olarak calistirmak isterseniz ##
- 
+
 Web uygulamasini isterseniz kendi websitenize yukleyebilirsiniz, isterseniz de asagidaki link uzerinden erisebilirsiniz.
 [https://audi0logist.shinyapps.io/Odyogram_Cizdirme/](https://audi0logist.shinyapps.io/Odyogram_Cizdirme/)
+Ya da asagidaki adrese girerek uygulamayi sag ust kosede 'Odyogram Cizdirme' sekmesine tiklayarak erisebilirsiniz.
+[https://www.sonerturudu.com/](https://www.sonerturudu.com/)
  
 ## Running the app offline (on a local computer) ##
  
