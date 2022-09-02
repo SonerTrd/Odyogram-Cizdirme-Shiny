@@ -11,7 +11,7 @@ Web uygulamasini isterseniz kendi websitenize yukleyebilirsiniz, isterseniz de a
 Ya da asagidaki adrese girerek uygulamayi sag ust kosede 'Odyogram Cizdirme' sekmesine tiklayarak erisebilirsiniz.
 [https://www.sonerturudu.com/](https://www.sonerturudu.com/)
  
-## Running the app offline (on a local computer) ##
+## Bilgisayarinizda calistirmak icin ##
  
 R scriptine odyogram_cizdirme.R sekline ulasabilirsiniz.
  
